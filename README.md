@@ -1,5 +1,5 @@
 # Binayak-demo
 This is my first Git Repository.
 <br>
-Author - Binayak Bishoyi
+Author - Binayak Bisoyi
 
